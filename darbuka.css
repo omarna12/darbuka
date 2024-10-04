@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'XXIIArabianOnenightstand'; 
+    src: url('./XXII-ARABIAN-ONENIGHTSTAND.ttf'); 
+}
+
+body{
+    background-image:url('/images/1.webp'); 
+    background-size: cover;
+    height: 100vh;
+    font-family: XXIIArabianOnenightstand;
+    color: white;
+}
+
+
+button{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
